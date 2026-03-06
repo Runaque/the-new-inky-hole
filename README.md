@@ -99,6 +99,6 @@ This project is a refactored fork of the original inky-pihole created by doubleh
 
 Original Maker: doublehelix21
 
-Original Repository: hxxps://github.com/doublehelix/inky-pihole/
+Original Repository: https://github.com/doublehelix/inky-pihole/
 
 The-new-inky-hole aims to keep the original aesthetic alive while bringing the backend up to date for Pi-hole v6.
