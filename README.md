@@ -63,7 +63,7 @@ pip install -r requirements.txt
 Clone & Setup:
 
 ```
-git clone https://github.com/your-username/the-new-inky-hole.git
+git clone https://github.com/Runaque/the-new-inky-hole.git
 cd the-new-inky-hole
 ```
 
