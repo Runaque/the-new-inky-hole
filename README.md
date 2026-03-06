@@ -4,6 +4,15 @@
 
 A 50% leaner, high-performance refactor of the classic Inky-Pihole script. Optimized for Pi-hole v6, Python 3.10+, and mobile battery-powered setups.
 
+Default display / Simple display (using `--simple` option):  
+<img src='https://github.com/Runaque/the-new-inky-hole/blob/main/preview.jpg?raw=true?v=1' width="300"/> 
+<img src='https://github.com/Runaque/the-new-inky-hole/blob/main/preview_simple.jpg?v=1' width="300"/>
+
+
+LCARS display (using `--lcars` option) / LCARS + Simple:  
+<img src='https://github.com/Runaque/the-new-inky-hole/blob/main/preview_lcars.jpg?v=1' width="300"/> 
+<img src='https://github.com/Runaque/the-new-inky-hole/blob/main//preview_lcars_simple.jpg?v=1' width="300"/>
+
 ## ✨ Why "the-new-inky-hole"?
 
 The original project was a fantastic foundation, but Pi-hole v6 introduced major API changes and modern Python environments (like PEP 668) required a new approach.
